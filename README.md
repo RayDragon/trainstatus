@@ -4,7 +4,7 @@ This block find the status of train
     check Pipfile for dependency
 
 The work is done by scrapping https://trainstatus.info
-If you are an owner of this site, please note that the script is not intended for comercial purpose but instead of just for studying bs4 library. In case you want it to be removed, please drop a mail with valid credibility to 
+If you are an owner of this site, please note that the script is not intended for commercial purpose currently but instead just for studying bs4 library. In case you want it to be removed, please drop a mail with valid credibility to 
 bluedragon.ray@gmail.com
 
 to install env with pipenv :
